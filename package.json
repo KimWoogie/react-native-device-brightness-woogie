@@ -1,29 +1,29 @@
 {
   "_args": [
     [
-      "git+https://github.com/KimWoogie/react-native-device-brightness.git",
+      "git+https://github.com/KimWoogie/react-native-device-brightness-woogie.git",
       "/Users/ibiz/maeil_third/pick"
     ]
   ],
-  "_from": "git+https://github.com/KimWoogie/react-native-device-brightness.git",
-  "_id": "react-native-device-brightness-woogie@git+https://github.com/KimWoogie/react-native-device-brightness.git#7e369229cdf8a9a88e95f146f461da2337af940a",
+  "_from": "git+https://github.com/KimWoogie/react-native-device-brightness-woogie.git",
+  "_id": "react-native-device-brightness-kwk@git+https://github.com/KimWoogie/react-native-device-brightness-woogie.git#7e369229cdf8a9a88e95f146f461da2337af940a",
   "_inBundle": false,
   "_integrity": "",
-  "_location": "/react-native-device-brightness-woogie",
+  "_location": "/react-native-device-brightness-kwk",
   "_phantomChildren": {},
   "_requested": {
     "type": "git",
-    "raw": "git+https://github.com/KimWoogie/react-native-device-brightness.git",
-    "rawSpec": "git+https://github.com/KimWoogie/react-native-device-brightness.git",
-    "saveSpec": "git+https://github.com/KimWoogie/react-native-device-brightness.git",
-    "fetchSpec": "https://github.com/KimWoogie/react-native-device-brightness.git",
+    "raw": "git+https://github.com/KimWoogie/react-native-device-brightness-woogie.git",
+    "rawSpec": "git+https://github.com/KimWoogie/react-native-device-brightness-woogie.git",
+    "saveSpec": "git+https://github.com/KimWoogie/react-native-device-brightness-woogie.git",
+    "fetchSpec": "https://github.com/KimWoogie/react-native-device-brightness-woogie.git",
     "gitCommittish": null
   },
   "_requiredBy": [
     "/"
   ],
-  "_resolved": "git+https://github.com/KimWoogie/react-native-device-brightness.git#7e369229cdf8a9a88e95f146f461da2337af940a",
-  "_spec": "git+https://github.com/KimWoogie/react-native-device-brightness.git",
+  "_resolved": "git+https://github.com/KimWoogie/react-native-device-brightness-woogie.git#7e369229cdf8a9a88e95f146f461da2337af940a",
+  "_spec": "git+https://github.com/KimWoogie/react-native-device-brightness-woogie.git",
   "_where": "/Users/ibiz/maeil_third/pick",
   "author": {
     "name": "Calvin Huang",
@@ -60,5 +60,5 @@
     "type": "git",
     "url": "git+https://github.com/Calvin-Huang/react-native-device-brightness.git"
   },
-  "version": "1.0.0"
+  "version": "1.1.0"
 }
