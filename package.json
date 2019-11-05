@@ -1,30 +1,39 @@
 {
-  "name": "react-native-device-brightness-woogie",
-  "version": "1.0.0",
-  "description": "react-native-device-brightness-kwk forked",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
+  "_args": [
+    [
+      "git+https://github.com/KimWoogie/react-native-device-brightness.git",
+      "/Users/ibiz/maeil_third/pick"
+    ]
+  ],
+  "_from": "git+https://github.com/KimWoogie/react-native-device-brightness.git",
+  "_id": "react-native-device-brightness-woogie@git+https://github.com/KimWoogie/react-native-device-brightness.git#7e369229cdf8a9a88e95f146f461da2337af940a",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/react-native-device-brightness-woogie",
+  "_phantomChildren": {},
+  "_requested": {
     "type": "git",
-    "url": "git+https://github.com/KimWoogie/react-native-device-brightness-woogie.git"
+    "raw": "git+https://github.com/KimWoogie/react-native-device-brightness.git",
+    "rawSpec": "git+https://github.com/KimWoogie/react-native-device-brightness.git",
+    "saveSpec": "git+https://github.com/KimWoogie/react-native-device-brightness.git",
+    "fetchSpec": "https://github.com/KimWoogie/react-native-device-brightness.git",
+    "gitCommittish": null
   },
-  "keywords": [
-    "react-component",
-    "react-native",
-    "ios",
-    "android",
-    "screen-brightness",
-    "device-brightness",
-    "brightness"
-  ], 
-  "author": "woogie.kim <jwoogie@ibizsoftware.net> (https://www,ibizsoftware.net)",
-  "license": "MIT",
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git+https://github.com/KimWoogie/react-native-device-brightness.git#7e369229cdf8a9a88e95f146f461da2337af940a",
+  "_spec": "git+https://github.com/KimWoogie/react-native-device-brightness.git",
+  "_where": "/Users/ibiz/maeil_third/pick",
+  "author": {
+    "name": "Calvin Huang",
+    "email": "calvin.peak@capslock.tw",
+    "url": "https://github.com/Calvin-Huang"
+  },
   "bugs": {
-    "url": "https://github.com/KimWoogie/react-native-device-brightness-woogie/issues"
+    "url": "https://github.com/Calvin-Huang/react-native-device-brightness/issues"
   },
-  "homepage": "https://github.com/Calvin-Huang/react-native-device-brightness#readme",
+  "description": "Screen brightness adjustment tool for ReactNative iOS and Android. ",
   "devDependencies": {
     "babel-eslint": "^7.2.3",
     "eslint": "^3.19.0",
@@ -33,6 +42,23 @@
     "eslint-plugin-import": "^2.2.0",
     "eslint-plugin-jsx-a11y": "^5.0.1",
     "eslint-plugin-react": "^7.0.1"
-  }
-
+  },
+  "homepage": "https://github.com/Calvin-Huang/react-native-device-brightness#readme",
+  "keywords": [
+    "react-component",
+    "react-native",
+    "ios",
+    "android",
+    "screen-brightness",
+    "device-brightness",
+    "brightness"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "react-native-device-brightness-woogie",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Calvin-Huang/react-native-device-brightness.git"
+  },
+  "version": "1.0.0"
 }
