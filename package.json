@@ -36,7 +36,7 @@
   "description": "Screen brightness adjustment tool for ReactNative iOS and Android. ",
   "devDependencies": {
     "babel-eslint": "^7.2.3",
-    "eslint": "^3.19.0",
+    "eslint": "^4.19.1",
     "eslint-config-airbnb": "^15.0.1",
     "eslint-config-airbnb-es5": "^1.1.0",
     "eslint-plugin-import": "^2.2.0",
