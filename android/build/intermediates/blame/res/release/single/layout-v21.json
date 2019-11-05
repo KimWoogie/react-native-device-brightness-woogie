@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/ibiz/maeil_third/pick/node_modules/react-native-device-brightness-kwk/android/build/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/ibiz/.gradle/caches/transforms-2/files-2.1/594b35cc5e7301f5503cb4c692ffbb7f/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/ibiz/maeil_third/pick/node_modules/react-native-device-brightness-kwk/android/build/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/ibiz/.gradle/caches/transforms-2/files-2.1/594b35cc5e7301f5503cb4c692ffbb7f/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/ibiz/maeil_third/pick/node_modules/react-native-device-brightness-kwk/android/build/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/ibiz/.gradle/caches/transforms-2/files-2.1/594b35cc5e7301f5503cb4c692ffbb7f/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/ibiz/maeil_third/pick/node_modules/react-native-device-brightness-kwk/android/build/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/Users/ibiz/.gradle/caches/transforms-2/files-2.1/594b35cc5e7301f5503cb4c692ffbb7f/res/layout-v21/notification_action.xml"
+    }
+]
